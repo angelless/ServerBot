@@ -1,7 +1,7 @@
 # ServerBot
-MCPE server(java) -> socketo.io -> telegramBot(Node.js : client) UDP
+MCPE server(java) -> telegramBot(Node.js : server) UDP
 
-다양한 기능추가한 풀리퀘스트 받습니다
+plaese Help Me!
 
 
 ![logo](KakaoTalk_20170209_012104326.jpg)
